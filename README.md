@@ -17,7 +17,7 @@ Each model is trained using a grid search for hyperparameter tuning with cross-v
 
 ## How to use
 - Clone this repository to your local machine using Git:
-git clone 
+git clone https://github.com/lasanib-99/Liver_Disease_Prediction.git
 - Install the required R packages mentioned in `requirements.txt`.
 - Explore the analysis scripts to understand the data processing and visualization steps.
 - Open and review the report, `Health_Data_Analysis.pdf`, for a detailed summary of the analysis and findings.
