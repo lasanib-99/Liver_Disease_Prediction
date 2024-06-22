@@ -16,9 +16,11 @@ The data preprocessing steps involve cleaning the data, handling missing values,
 Each model is trained using a grid search for hyperparameter tuning with cross-validation to ensure robust performance. The performance of each model is evaluated using accuracy confusion matrix and classification report.
 
 ## How to use
-- Clone this repository
-git clone
-- Install the necessary dependencies.
+- Clone this repository to your local machine using Git:
+git clone 
+- Install the required R packages mentioned in `requirements.txt`.
+- Explore the analysis scripts to understand the data processing and visualization steps.
+- Open and review the report, `Health_Data_Analysis.pdf`, for a detailed summary of the analysis and findings.
 
 ## Future Work
 - Further tuning of hyperparameters to improve accuracy.
