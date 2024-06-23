@@ -1,4 +1,4 @@
-# Liver_Disease_Prediction_in_India
+# Liver Disease Prediction in India
 
 This project focuses on building and evaluating various machine learning models to predict liver disease. Using a dataset of patient health records, the models are trained and optimized to achieve the highest possible accuracy. The models include Logistic Regression, Random Forest Classifier, Support Vector Machine (SVM), K Nearest Neighbors (KNN), and XGBoost Classifier.
 
